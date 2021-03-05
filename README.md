@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/L00162938/DevOps/_apis/build/status/JomyDevOps.ContosoAir?branchName=master)](https://dev.azure.com/L00162938/DevOps/_build/latest?definitionId=11&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
